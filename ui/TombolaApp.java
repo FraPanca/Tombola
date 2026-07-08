@@ -1,12 +1,12 @@
-package tombola.ui;
+package ui;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
-import tombola.controller.Controller;
-import tombola.model.Tombola;
+import controller.Controller;
+import model.Tombola;
 
 public class TombolaApp extends Application {
 	
