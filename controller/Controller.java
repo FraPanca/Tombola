@@ -1,4 +1,4 @@
-package tombola.controller;
+package controller;
 
 import java.util.Optional;
 import java.util.StringJoiner;
@@ -6,7 +6,7 @@ import java.util.StringJoiner;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.ButtonType;
-import tombola.model.Tombola;
+import model.Tombola;
 
 public class Controller {
 	
